@@ -39,6 +39,16 @@
       "date": "25.03.2023",
       "time": "now",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "57f08d7c-176b-47d4-8561-e205213c7388",
+      "category": "education",
+      "title": "Pinia course resume",
+      "description": "Resume main ideas of the course",
+      "location": "Vue Mastery",
+      "date": "Today",
+      "time": "Now",
+      "organizer": "Ben Hong"
     }
   ]
 }
