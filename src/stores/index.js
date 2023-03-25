@@ -7,6 +7,9 @@ export default createStore({
     events: [],
     event: {}
   },
+  getters: {
+    numberOfEvents: state => state.events.length,
+  },
   mutations: {
     ADD_EVENT(state, event) {
       state.events.push(event)
